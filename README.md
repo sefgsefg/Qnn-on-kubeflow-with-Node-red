@@ -91,7 +91,10 @@ defaults: {
 </div>
 ```
 ## Implementation
-[!](https://youtu.be/dv-ojXobfYE)
+
+https://github.com/sefgsefg/Qnn-on-kubeflow-with-Node-red/assets/85359362/31677bea-7f14-4d56-b5fa-c0bb1c35352f
+
+
 
 
 ## Reference
