@@ -1,8 +1,5 @@
 # Qnn-on-kubeflow-with-Node-red
 
-# Kube-node-red(en)
-[![hackmd-github-sync-badge](https://hackmd.io/cocSOGQMR-qzo7DHdwgRsQ/badge)](https://hackmd.io/cocSOGQMR-qzo7DHdwgRsQ)
-
 Kube-node-red is aiming to integrate Kubeflow/Kubebeters with node-red, leveraging node-red's low-code modules, and using Kubeflow resources (e.g. Kubeflow pipeline, Kserve) to enhance its AI/ML ability.
 ## Table of Contents
 <!-- toc -->
@@ -93,6 +90,10 @@ defaults: {
         <input type="text" id="node-input-userinput" />
 </div>
 ```
+## Implementation
+[!](https://youtu.be/dv-ojXobfYE)
+
+
 ## Reference
 https://github.com/NightLightTw/kube-nodered
 
