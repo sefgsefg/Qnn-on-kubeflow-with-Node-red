@@ -104,3 +104,5 @@ https://github.com/kubeflow/pipelines/tree/1.8.21/backend/api/python_http_client
 
 [Kubeflow implementation：add Random Forest algorithm](https://hackmd.io/@ZJ2023/BJYQGMvJ6)
 
+https://github.com/justin0322/Node-RED-Kubeflow-Pipeline-Extension
+
