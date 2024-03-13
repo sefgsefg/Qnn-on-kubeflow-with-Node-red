@@ -16,6 +16,42 @@ Kube-node-red is aiming to integrate Kubeflow/Kubebeters with node-red, leveragi
 # Architecture
 ![image](https://hackmd.io/_uploads/HJeFeO6Up.png)
 
+## Implementation
+
+```
+git clone https://github.com/sefgsefg/Qnn-on-kubeflow-with-Node-red.git
+```
+
+```
+cd Qnn-on-kubeflow-with-Node-red/Qnn/examples
+```
+
+```
+./run.sh main
+```
+
+Problem solve: -bash: ./run.sh: Permission denied
+```
+chmod +x run.sh
+```
+
+```
+cd scripts
+```
+
+
+```
+chmod +x entrypoint.sh
+```
+
+```
+cd ..
+```
+Run ./run.sh main again
+```
+./run.sh main
+```
+
 
 # Self-defined Node
 ## Prerequisites
