@@ -18,6 +18,8 @@ Kube-node-red is aiming to integrate Kubeflow/Kubebeters with node-red, leveragi
 
 ## Implementation
 
+Use WSL to implement
+
 ```
 git clone https://github.com/sefgsefg/Qnn-on-kubeflow-with-Node-red.git
 ```
